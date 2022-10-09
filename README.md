@@ -1,4 +1,6 @@
-CentOS Linux release 7.9.2009 (Core)
+
+# Installing Visual Studio Code in CentOS Linux release 7.9.2009 (Core)
+
 Visual Studio Code 1.58.2
 
 sudo yum install epel-release -y
